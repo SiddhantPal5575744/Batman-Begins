@@ -45,7 +45,7 @@ function draw(){
         particles1[j].display();
       }
 
-      umbrella.display();
+      
 
       
 
